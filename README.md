@@ -5,7 +5,7 @@
  
 ###  Introduction
 
-<p align="justify"The Landsat Thematic Mapper (TM) sensor was carried onboard Landsats 4 and 5 from July 1982 to May 2012 with
+<p align="justify">The Landsat Thematic Mapper (TM) sensor was carried onboard Landsats 4 and 5 from July 1982 to May 2012 with
 a 16-day repeat cycle. Landsat 4-5 TM image data files consist of seven spectral bands. The resolution is 30 meters for bands 1 to 7 
 (thermal infrared band 6 was collected at 120 meters, but was resampled to 30 meters.) The approximate scene size is 170 km north-south
 by 183 km east-west (106 mi by 114 mi).
